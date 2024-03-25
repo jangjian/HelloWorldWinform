@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace HelloWorldWinform
 {
-    public partial class Form1 : Form
+    public partial class Form11111 : Form
     {
-        public Form1()
+        public Form11111()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -21,5 +21,10 @@ namespace HelloWorldWinform
         {
 
         }
+
+        private void Form11111_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
